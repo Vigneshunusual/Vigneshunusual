@@ -14,6 +14,11 @@ This project is a keylogger that captures keystrokes, checks for forbidden keywo
 
 ![decryption  pic](https://github.com/user-attachments/assets/610647b3-c4b4-4953-bfe1-2a407a590807)
 
+# Inputs To Mail
+
+Get Keyboard,Mouse,ScreenShot,Microphone Inputs and Send to your Mail. Purpose of the project is testing the security of information systems
+
+
 # Features
 
 1.Keystroke Logging: Captures all keystrokes typed by the user.
@@ -45,6 +50,8 @@ This project is a keylogger that captures keystrokes, checks for forbidden keywo
 2.Configure Email Settings:
 
    Update the sender_email, receiver_email, and email_password variables with your email credentials.
+
+
 
 
 
