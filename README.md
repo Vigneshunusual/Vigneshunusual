@@ -14,7 +14,16 @@ This project is a keylogger that captures keystrokes, checks for forbidden keywo
 
 ![decryption  pic](https://github.com/user-attachments/assets/610647b3-c4b4-4953-bfe1-2a407a590807)
 
-
+#Features
+1.Keystroke Logging: Captures all keystrokes typed by the user.
+2.Forbidden Keyword Detection: Checks for a list of predefined forbidden keywords.
+3.Data Encryption: Encrypts captured data, including keystrokes, system info, clipboard content, and screenshots.
+4.Alarm Triggering: Triggers an alarm sound when forbidden keywords are detected.
+5.Microphone Recording: Records audio when forbidden keywords are detected.
+6.Email Notifications: Sends email notifications with encrypted attachments when forbidden keywords are detected.
+7.System Information Collection: Captures and encrypts system information.
+8.Clipboard Monitoring: Captures and encrypts clipboard content.
+9.Screenshot Capture: Takes screenshots and saves them without encryption.
 
 
 
