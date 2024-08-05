@@ -16,7 +16,7 @@ This project is a keylogger that captures keystrokes, checks for forbidden keywo
 
 # Inputs To Mail
 
-Get Keyboard,Mouse,ScreenShot,Microphone Inputs and Send to your Mail. Purpose of the project is testing the security of information systems
+Get Keyboard,ScreenShot,Microphone Inputs and Send to your Mail. Purpose of the project is testing the security of information systems
 
 
 # Features
