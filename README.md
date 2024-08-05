@@ -1,8 +1,8 @@
-#overview
+# overview
 
 This project is a keylogger that captures keystrokes, checks for forbidden keywords, encrypts sensitive data, and sends alerts via email. It is intended for educational purposes and should be used responsibly.
 
-#snapshots
+# snapshots
 
 ![output](https://github.com/user-attachments/assets/96fd441c-f581-45e3-9277-bf630e44e9f5)
 
@@ -14,7 +14,7 @@ This project is a keylogger that captures keystrokes, checks for forbidden keywo
 
 ![decryption  pic](https://github.com/user-attachments/assets/610647b3-c4b4-4953-bfe1-2a407a590807)
 
-#Features
+# Features
 
 1.Keystroke Logging: Captures all keystrokes typed by the user.
 
@@ -34,7 +34,7 @@ This project is a keylogger that captures keystrokes, checks for forbidden keywo
 
 9.Screenshot Capture: Takes screenshots and saves them without encryption.
 
-#Installation
+# Installation
 
 1.Install Required Packages:
 
@@ -46,7 +46,7 @@ This project is a keylogger that captures keystrokes, checks for forbidden keywo
 
    Update the sender_email, receiver_email, and email_password variables with your email credentials.
 
-3.
+
 
 
 
